@@ -51,16 +51,18 @@ CI/CD is a key part of **DevOps**, which combines **development and operations**
 6. **Monitor** – Track performance & fix issues.
 
 ---
-What is Jenkins?
-Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
-
-Jenkins can be installed through native system packages, Docker, or even run standalone by any machine with a Java Runtime Environment (JRE) installed.
-
-
-https://www.jenkins.io/doc/
 
 https://youtu.be/N-Iv4KIOvKY?si=mJRgDi97wcPMwrXT
 
 Documentation:
 
 https://www.redhat.com/en/topics/devops/what-cicd-pipeline
+
+
+### What is Jenkins?
+Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software.
+
+Jenkins can be installed through native system packages, Docker, or even run standalone by any machine with a Java Runtime Environment (JRE) installed.
+
+
+https://www.jenkins.io/doc/
