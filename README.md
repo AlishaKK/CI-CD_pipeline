@@ -3,8 +3,6 @@
 
 ![image](https://github.com/user-attachments/assets/d802a22f-7879-4780-b829-02f02fdd1b52)
 
-Absolutely! Here's an updated version including the **traditional approach** before CI/CD:
-
 ---
 
 ### 🚀 What is a CI/CD Pipeline?
